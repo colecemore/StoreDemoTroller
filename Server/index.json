@@ -1,7 +1,7 @@
 [
   {
     "name": "Aurora",
-    "detailURL": "https://yourserver.com/screensavers/aurora.json"
+    "detailURL": "https://raw.githubusercontent.com/colecemore/StoreDemoTroller/refs/heads/main/Server/aurora.json"
   },
   {
     "name": "Ocean",
